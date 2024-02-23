@@ -4,6 +4,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 17.8.34511.84
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Scraper", "Scraper\Scraper.csproj", "{6F3CFA7F-404F-4173-B2B8-70FA83650C9C}"
+	ProjectSection(ProjectDependencies) = postProject
+		{17932E40-6D6F-41F9-A9BC-A786C998B53B} = {17932E40-6D6F-41F9-A9BC-A786C998B53B}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryClasses", "LibraryClasses\LibraryClasses.csproj", "{17932E40-6D6F-41F9-A9BC-A786C998B53B}"
 EndProject

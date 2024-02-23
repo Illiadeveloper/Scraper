@@ -1,0 +1,16 @@
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\bin\Debug\net8.0-windows\selenium-manager\linux\selenium-manager
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\bin\Debug\net8.0-windows\selenium-manager\macos\selenium-manager
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\bin\Debug\net8.0-windows\selenium-manager\windows\selenium-manager.exe
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\bin\Debug\net8.0-windows\LibraryClasses.deps.json
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\bin\Debug\net8.0-windows\LibraryClasses.dll
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\bin\Debug\net8.0-windows\LibraryClasses.pdb
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.csproj.AssemblyReference.cache
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.AssemblyInfo.cs
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.sourcelink.json
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.dll
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\refint\LibraryClasses.dll
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\LibraryClasses.pdb
+D:\Programming\Visual Studio\C#\Lesson\Scraper\LibraryClasses\obj\Debug\net8.0-windows\ref\LibraryClasses.dll
